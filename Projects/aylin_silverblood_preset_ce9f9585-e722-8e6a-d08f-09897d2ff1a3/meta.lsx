@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="ce9f9585-e722-8e6a-d08f-09897d2ff1a3"/>
+            <attribute id="Name" type="LSString" value="aylin_silverblood_preset"/>
+            <attribute id="UUID" type="LSString" value="4e2a8124-a092-8b26-3b04-92586cbb5dd3"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

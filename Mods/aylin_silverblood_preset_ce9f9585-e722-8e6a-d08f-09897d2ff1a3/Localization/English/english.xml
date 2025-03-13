@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h5c072809g312eg96c9g69d4ge059946c1f51" version="2">Nightsong Clothes</content>
+  <content contentuid="hbc3c7cffgd4fbgde27g3cf5ge8f9e91190bb" version="2">Only visible on body type 1 human, elf, half-elf, and tiefling.</content>
+  <content contentuid="h8eba68c3g3f0cg43cdg9f53g8f8befb7acdc" version="5">Nightsinger's Accoutrements</content>
+  <content contentuid="h793cb47fg9acbg4831g9db8ga84315ed4d4c" version="4">Only available for body type 1 humans, elves, half-elves, gith, and tieflings.</content>
+  <content contentuid="h6c861604g27a6geed8g045cgc02015962c57" version="3">Nightsong's Slippers</content>
+  <content contentuid="h286d5167g3028gb55dg560ag8933bcb68cd5" version="3">Only visible on body type 1 humans, elves, half-elves, gith, and tieflings.</content>
+  <content contentuid="h3732c7bdg04abg27f4gaef2g1422c14fe7a7" version="1">Nightsinger's Plaits</content>
+  <content contentuid="h17876001gc724g48cbgaf8eg252a2a4b17d0" version="1">Nightsong's Plaits</content>
+  <content contentuid="hdaba9241g5e5bg1c1eg76ceg5d87597fa9b3" version="1">The most common face in Faerûn, humans are known for their tenacity, creativity, and endless capacity for growth.</content>
+  <content contentuid="hbb35b38egb5a0g9d02g91d3g06ce73163018" version="1">Human</content>
+  <content contentuid="h27cf3cb7gab1dg9f9ag2b3bg1e762b1d40ac" version="1">Nightsong's Plaits</content>
+  <content contentuid="h99d90059gb7cag6d79g95bfga390282e3a1b" version="1">Nightsong's Plaits</content>
+  <content contentuid="h04d36825ge5cfgcf34g3a8dgb9b899dd2bf8" version="1">Nightsong's Plaits</content>
+  <content contentuid="h9e6a2e01g44afg26eeg7acag174d9b3cc3a0" version="1">Nightsong's Plaits</content>
+  <content contentuid="h6c2eaeb3g7e78g0a64g4f3egdcfbc57c37ba" version="1">Bard Sack of Sharran Sundries</content>
+  <content contentuid="h9113ba64g138cg2a88gba4bg5d5e3cabf9a8" version="4">Nightsong Barbarian Pack</content>
+  <content contentuid="hc8fb421fg2784gb8bag32ebgd8fa1e72b039" version="5">Nightsong Bard Pack</content>
+  <content contentuid="h9137382cg6c7ag7174g6b5cga8fa0738a144" version="3">Nightsong Cleric Pack</content>
+  <content contentuid="h964cc70eg82a8g2ad0g84cdgc40da9bff344" version="4">Nightsong Druid Pack</content>
+  <content contentuid="hf7e8b903gb2efg22bag290dgf77c2a3e3902" version="3">Nightsong Fighter Pack</content>
+  <content contentuid="h16068553gcfa7gf911g1ab2g4f4c172b2764" version="3">Nightsong Monk Pack</content>
+  <content contentuid="h9657f168g8e85g3841g386cg6db681beea08" version="4">Nightsong Paladin Pack</content>
+  <content contentuid="hc138a3a7g6d75gdc4eg3ad7g44d4215c7d05" version="3">Nightsong Ranger Pack</content>
+  <content contentuid="hef727266g93deg7893g8214g104ab6a2cc55" version="4">Nightsong Rogue Pack</content>
+  <content contentuid="h47d7af88g0445gae08g86cfg1e8608f07a58" version="3">Nightsong Sorcerer Pack</content>
+  <content contentuid="hbf2e9c21ge128gc2acgf910gf6fff396fbcd" version="3">Nightsong Warlock Pack</content>
+  <content contentuid="hde05bd16g8b5dg1eacg64aeg401f576580b0" version="3">Nightsong Wizard Pack</content>
+  <content contentuid="h57780bd3gbd75gd4d7gb1a7g378e25690f4a" version="2">Sharran Barbarian Armor</content>
+  <content contentuid="h40fc30b0g109fg4110gce86gb2f72cb4f64d" version="2">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="hf60166c5ge89cgec0egf910gffa5257cce59" version="4">Sharran Barbarian Shoes</content>
+  <content contentuid="ha77073f0g4837g9e69g0c73g518f8c8092e7" version="3">Sharran Leather Gloves</content>
+  <content contentuid="ha8bfc82fg3d8bg0a6cgee3cg1ecea95a206a" version="3">Sharran Leather Helmet</content>
+  <content contentuid="h09519dccg8d01g5727gda6bgc5b1b2c4723f" version="2">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="he49bc93bg6448g2a42gdfc9g524e3d9757f7" version="2">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="h8824052eg9fd6g0704g38deg8089e66376f7" version="3">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="hbd8d9efag1258g0e37g6664g39f183ff241d" version="4">Sharran Bard Armor</content>
+  <content contentuid="h4d798efag271fg3837g6803g25b888e94142" version="3">Sharran Cloth Gloves</content>
+  <content contentuid="h20675ddagbabdge082g3266g95edb527578e" version="3">Sharran Leather Boots</content>
+  <content contentuid="he07ac60bg97d6g5e25g136bg2653b5bfb1ea" version="3">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="h1efb13a3gd00egb09dg504ag1e4b4fbe6ff1" version="2">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="h4ff98a27g5f0eg4dafg2bc2g395836cebd64" version="4">Sharran Cloth Hat</content>
+  <content contentuid="h5ac1ba61g0a3fgc50dg4d7egc4742cf3591e" version="2">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="h7c5abb15g27c8g4b80g2c0eg84717640e887" version="3">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="h98bf1f7bg6859gb547g77bega916b793a462" version="4">Sharran Cleric Armor</content>
+  <content contentuid="h46b911c9g8321gcdb8gd0e4g14d5aef5c0ed" version="4">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="h48ca45cag54f7ge52fgd296gfe0c884c979d" version="2">Sharran Metal Helmet</content>
+  <content contentuid="h6ee7ff0cg9e42g27edg856fg697f3cd959b6" version="2">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="haa8951e9ga2f5g9f53gc656g537cc705c35c" version="2">Sharran Metal Gloves</content>
+  <content contentuid="h681968d3ge49fgf22fgfc93gb163bd0e7cce" version="2">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="hb3a72e39g9bffg4381g1700g167717c2165a" version="3">Sharran Druid Armor</content>
+  <content contentuid="h4b658500g772ag37f5ge80eg6e0a8354d56a" version="3">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="h0caf89ceg0e07g796dga60agb5d76c1f4175" version="4">Sharran Fighter Armor</content>
+  <content contentuid="hae25b439gdc76g7442g7d3bg0794c23fd416" version="4">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="h533ceedag362dgfba0g622eg26e30c3f90ff" version="3">Sharran Monk Armor</content>
+  <content contentuid="h73b31e9eg41d1g82bfg5ceagebf89eb87222" version="3">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="h3e175acfgae76g8b05g1bf3g491cb28c82b3" version="2">Sharran Monk Shoes</content>
+  <content contentuid="hc3c6bbf0ge3cbg7612gd89eg64e248bfaccb" version="2">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="he554b2cfg802cg7691gfe3ag0874825907aa" version="1">Sharran Paladin Armor</content>
+  <content contentuid="he489138ag57b7gfdf6gbb6eg9e87eb24d7ff" version="1">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="hdbc579cdg1650gf166g6c32gc038db442b8c" version="4">Sharran Ranger Armor</content>
+  <content contentuid="hbf75d38fge75dg1ecfg561bgcb74846f86d0" version="3">Sharran Paladin Armor</content>
+  <content contentuid="ha9283f67g11b6g599cg2362gf146b6373022" version="3">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="ha0f8e231gd941g7aeeg6252g88da2d22024a" version="3">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="ha5c0cd94g8e68g4ab8g57d9g901086fceb19" version="3">Sharran Rogue Armor</content>
+  <content contentuid="h970a6df1gfb87g9268g3eb3g5fbe7aba5bcf" version="3">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="h82637ca3g0b47g0013g48a5gd43dac0192c1" version="4">Sharran Sorcerer Armor</content>
+  <content contentuid="haf04c57ag701cg1fbbg551dgff10341c33fa" version="4">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="h5bc7cd11gb9a3gc9e6g516dge0429d916cf3" version="4">Sharran Wizard Armor</content>
+  <content contentuid="h72762ae1ge55cgfbf5g3099gbcbfe502a5bf" version="4">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="h157c70eeg33afg94a0g6e8dg2a70e43a2535" version="5">Sharran Warlock Armor</content>
+  <content contentuid="h8a736d70g3f9bg3204ga205g161e107fb863" version="5">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="hb26e82d6g999bga51eg506fg001028e251bd" version="2">Sharran Shoes</content>
+  <content contentuid="h18efd9b0gbb97g2948g177cga835d7198fd8" version="2">Only visible on normal body type 1 humanoids.</content>
+  <content contentuid="h1dda2666gc5d2gfb67g217dg729c6f35ff17" version="4">Nightsong Fighter Pack</content>
+  <content contentuid="hce364e0bg890fg3c20g9ec9g9ea38269a355" version="1">Head 11</content>
+  <content contentuid="h1789197fg4ad8g6a43gf42fg490bb7c2a808" version="1">Head 1</content>
+  <content contentuid="h4b180cdegaa92gff4bgd8a6g4b6aecf156aa" version="1">Nightsong</content>
+</contentList>

@@ -1,0 +1,4 @@
+new equipment "EQ_Underwear_Humans"
+add equipmentgroup
+add equipment entry "ARM_Underwear_Shadowheart"
+

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e078e210-b9ba-48e5-afe3-c5eb91ba8545">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4ec89a65-aa67-42af-a857-bddb42f9177f" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOOT_GEN_Backpack_Barbarian" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6d8b95fd-be52-48b5-9583-79ee05d79e64" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="02d94e32-672c-4703-bf82-40528b1bc617" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOOT_GEN_Backpack_Bard" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6f50cba3-7eda-43de-bf7e-600212d343ad" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f8828836-e13f-4732-8989-977a006fb1d2" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOOT_GEN_Backpack_Cleric" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="fff4eecf-42a3-43a1-b1bd-40bf5b6cbadd" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="67a2b827-b983-442c-8fb7-a8a440866741" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOOT_GEN_Backpack_Druid" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="48fcb74b-82ba-45b2-a6f5-71343db192dd" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bb3264ac-6718-4a8f-b6af-d46c96c0b0f8" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOOT_GEN_Backpack_Fighter" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="5fd9bcce-2864-4364-820c-85d9525c3453" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c9bdbc36-1dfb-43e6-b21d-b9009bc2913d" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOOT_GEN_Backpack_Monk" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f410e979-ed2d-4461-95ff-f7f2c24ee1ac" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7bee6cbe-469d-4264-918e-983023f6e694" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOOT_GEN_Backpack_Paladin" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="9f9f2c9e-a46f-4c28-be1a-9b4ca063f3f0" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0bb200e0-4ba6-4163-93e3-cac5a88f67e0" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOOT_GEN_Backpack_Ranger" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d101e208-05a4-495d-aff3-c21d069f4030" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="deaee15d-5328-44a1-ae41-db375944adcb" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOOT_GEN_Backpack_Rogue" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="065d32a0-de24-4fc2-a00e-f1fb13580458" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1a20fb2d-5a84-454c-8eb8-3eec037c267f" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOOT_GEN_Backpack_Sorcerer" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="dcfd3f3e-8ef0-4e9e-b851-6a73b25aa35f" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="20633a68-27a0-4010-af2a-96ba555e6bda" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOOT_GEN_Backpack_Warlock" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6c8c4973-cb21-41dd-a0c8-061fb0482534" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ea36da32-ab64-4180-a1be-16ade0afe11e" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOOT_GEN_Backpack_Wizard" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="89f5b139-be04-4ca9-a10c-389666242b53" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

@@ -1,0 +1,593 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e4012e18-6a6b-4f40-aefa-c83b078c136c">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd" />
+        <field name="Name" type="NameTableFieldDefinition" value="TUT_Chest_Potions" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_LOOT_GEN_Backpack_Barbarian" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1513b452-7195-4047-9df4-5a6443c4a6b5" />
+        <field name="Name" type="NameTableFieldDefinition" value="TUT_Chest_Potions_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_LOOT_GEN_Backpack_Bard" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c4dc4fc5-05aa-4b1a-b2ad-44e22ec213ab" />
+        <field name="Name" type="NameTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_LOOT_GEN_Backpack_Cleric" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b70cc4c6-4fae-45f7-a682-bf0c03134a58" />
+        <field name="Name" type="NameTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_LOOT_GEN_Backpack_Druid" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a5dc60bb-67db-42d9-ab18-d6df14ccb583" />
+        <field name="Name" type="NameTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd_substat_2" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_LOOT_GEN_Backpack_Fighter" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd" />
+        <field name="UUID" type="IdTableFieldDefinition" value="64689749-7d5d-4c81-826c-d319474f980e" />
+        <field name="Name" type="NameTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd_substat_3" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_LOOT_GEN_Backpack_Monk" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd" />
+        <field name="UUID" type="IdTableFieldDefinition" value="cc24362f-0d1f-446e-9641-47adc35d32a0" />
+        <field name="Name" type="NameTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd_substat_4" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_LOOT_GEN_Backpack_Paladin" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd" />
+        <field name="UUID" type="IdTableFieldDefinition" value="05706cf4-9bf9-4517-a4ba-4fe6c5cfabcf" />
+        <field name="Name" type="NameTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd_substat_5" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_LOOT_GEN_Backpack_Ranger" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2c781ecd-21a6-4dcf-b9fd-0554d5a77c23" />
+        <field name="Name" type="NameTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd_substat_6" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_LOOT_GEN_Backpack_Rogue" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5632fab6-59d9-4e33-b1b6-bd4226fcd708" />
+        <field name="Name" type="NameTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd_substat_7" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_LOOT_GEN_Backpack_Sorcerer" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd" />
+        <field name="UUID" type="IdTableFieldDefinition" value="667f359e-1495-437d-92af-7affbe107fcb" />
+        <field name="Name" type="NameTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd_substat_8" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_LOOT_GEN_Backpack_Warlock" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4d34bc55-a1ae-4d1a-ab00-5654576aea09" />
+        <field name="Name" type="NameTableFieldDefinition" value="8902d962-57d1-4ac0-87f4-026433e6f9bd_substat_9" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_LOOT_GEN_Backpack_Wizard" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6171bbd0-0578-4906-bd52-34af89e7422c" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Barbarian" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Barbarian_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6171bbd0-0578-4906-bd52-34af89e7422c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6559f815-3f31-44cb-a324-db5150608ca4" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Barbarian_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Gloves_Leather_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6171bbd0-0578-4906-bd52-34af89e7422c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="41c871c0-b14c-4953-9d97-0a81b5c26d4c" />
+        <field name="Name" type="NameTableFieldDefinition" value="6171bbd0-0578-4906-bd52-34af89e7422c_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Helmet_Leather_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6171bbd0-0578-4906-bd52-34af89e7422c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8505490d-ff97-40cc-bb23-22f02d73bab1" />
+        <field name="Name" type="NameTableFieldDefinition" value="6171bbd0-0578-4906-bd52-34af89e7422c_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Shoes_Barbarian_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d8352a9e-0a7d-4d49-b6c3-b40b26b2686e" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Bard" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Bard_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d8352a9e-0a7d-4d49-b6c3-b40b26b2686e" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f0ab9741-0ac2-423c-ac9d-90efa0e8c05e" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_BARD_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Gloves_Cloth_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d8352a9e-0a7d-4d49-b6c3-b40b26b2686e" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6f0678f9-451f-43fd-bcfe-ecb6765fd61d" />
+        <field name="Name" type="NameTableFieldDefinition" value="d8352a9e-0a7d-4d49-b6c3-b40b26b2686e_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Hat_Cloth_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d8352a9e-0a7d-4d49-b6c3-b40b26b2686e" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ab45f19e-be44-48d7-99bc-01cbc5413978" />
+        <field name="Name" type="NameTableFieldDefinition" value="d8352a9e-0a7d-4d49-b6c3-b40b26b2686e_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Boots_Leather_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7680037d-a434-4722-a387-a1c019cead29" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Cleric" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_ChainShirt_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7680037d-a434-4722-a387-a1c019cead29" />
+        <field name="UUID" type="IdTableFieldDefinition" value="341fb136-8d12-41a1-b7d7-8ac16ed766ae" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Cleric_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Gloves_Metal_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7680037d-a434-4722-a387-a1c019cead29" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d2bcc262-7f43-4f7f-bf96-f41bb2bafb14" />
+        <field name="Name" type="NameTableFieldDefinition" value="7680037d-a434-4722-a387-a1c019cead29_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Helmet_Metal_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7680037d-a434-4722-a387-a1c019cead29" />
+        <field name="UUID" type="IdTableFieldDefinition" value="84e92e2d-8986-4dfb-bbdd-33750cd05e58" />
+        <field name="Name" type="NameTableFieldDefinition" value="7680037d-a434-4722-a387-a1c019cead29_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Boots_Leather_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f4c3185f-9dea-4aa4-ad94-79ecda7a087f" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Druid" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Leather_Druid_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f4c3185f-9dea-4aa4-ad94-79ecda7a087f" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3bc1f778-a8ae-4512-8473-f33b8ad0b679" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Druid_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Gloves_Leather_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f4c3185f-9dea-4aa4-ad94-79ecda7a087f" />
+        <field name="UUID" type="IdTableFieldDefinition" value="eb615985-3d94-4c87-bcf2-ea8d96ed0121" />
+        <field name="Name" type="NameTableFieldDefinition" value="f4c3185f-9dea-4aa4-ad94-79ecda7a087f_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Helmet_Leather_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f4c3185f-9dea-4aa4-ad94-79ecda7a087f" />
+        <field name="UUID" type="IdTableFieldDefinition" value="62dba3cc-89f5-4dd9-baec-7fc388ff41c9" />
+        <field name="Name" type="NameTableFieldDefinition" value="f4c3185f-9dea-4aa4-ad94-79ecda7a087f_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Boots_Leather_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d67f6088-5737-4db7-bdf4-06dd5442d5e0" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Fighter" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_ScaleMail_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d67f6088-5737-4db7-bdf4-06dd5442d5e0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4cacdee2-9f3d-48f2-9814-19031c6a6d49" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Fighter_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Helmet_Metal_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d67f6088-5737-4db7-bdf4-06dd5442d5e0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fe9dc8e2-de34-4561-a6fc-ac9fce8e325c" />
+        <field name="Name" type="NameTableFieldDefinition" value="d67f6088-5737-4db7-bdf4-06dd5442d5e0_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Gloves_Metal_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d67f6088-5737-4db7-bdf4-06dd5442d5e0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="726f6925-f176-465e-b90f-bfb546fcca1e" />
+        <field name="Name" type="NameTableFieldDefinition" value="d67f6088-5737-4db7-bdf4-06dd5442d5e0_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Boots_Leather_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="24be2663-d913-4323-8040-486a0bc4ce4d" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Monk" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Monk_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="24be2663-d913-4323-8040-486a0bc4ce4d" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b1ca5aab-8f10-41ef-bbd3-d388670e992c" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Monk_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Gloves_Cloth_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="24be2663-d913-4323-8040-486a0bc4ce4d" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b4f6b744-1555-4ad1-a19f-1f284e75b800" />
+        <field name="Name" type="NameTableFieldDefinition" value="24be2663-d913-4323-8040-486a0bc4ce4d_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Hat_Cloth_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="24be2663-d913-4323-8040-486a0bc4ce4d" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ca71d13d-2d9c-45a2-95c2-1b90cb945fcc" />
+        <field name="Name" type="NameTableFieldDefinition" value="24be2663-d913-4323-8040-486a0bc4ce4d_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Boots_Monk_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="04ba299f-25d1-48ea-819d-11d15145c065" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Paladin" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_ScaleMail2_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="04ba299f-25d1-48ea-819d-11d15145c065" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d19de0ef-43a3-4ca4-b4bd-9dc45693850b" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Paladin_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Gloves_Metal_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="04ba299f-25d1-48ea-819d-11d15145c065" />
+        <field name="UUID" type="IdTableFieldDefinition" value="49802deb-d8ff-475c-b253-a00c8c4f2c98" />
+        <field name="Name" type="NameTableFieldDefinition" value="04ba299f-25d1-48ea-819d-11d15145c065_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Helmet_Metal_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="04ba299f-25d1-48ea-819d-11d15145c065" />
+        <field name="UUID" type="IdTableFieldDefinition" value="51fadeb5-456b-494c-b56e-2976f9f02b1b" />
+        <field name="Name" type="NameTableFieldDefinition" value="04ba299f-25d1-48ea-819d-11d15145c065_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Boots_Leather_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d09bb782-c9b8-47a0-8401-492f01a2c366" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Ranger" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Leather_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d09bb782-c9b8-47a0-8401-492f01a2c366" />
+        <field name="UUID" type="IdTableFieldDefinition" value="108bd0ef-b3a5-4262-b2fe-262bc44360ec" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Ranger_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Gloves_Leather_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d09bb782-c9b8-47a0-8401-492f01a2c366" />
+        <field name="UUID" type="IdTableFieldDefinition" value="34769137-c56d-4ea2-a78a-ad9708d3ebe8" />
+        <field name="Name" type="NameTableFieldDefinition" value="d09bb782-c9b8-47a0-8401-492f01a2c366_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Helmet_Leather_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d09bb782-c9b8-47a0-8401-492f01a2c366" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8d1c20d6-958c-4ddb-8f96-ce8303f44d70" />
+        <field name="Name" type="NameTableFieldDefinition" value="d09bb782-c9b8-47a0-8401-492f01a2c366_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Boots_Leather_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d9cb105c-c864-444a-8fda-a8aad980050a" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Rogue" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Leather_Rogue_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d9cb105c-c864-444a-8fda-a8aad980050a" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0dc60a90-1735-4002-8e24-1be9a29b2aaa" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Rogue_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Gloves_Leather_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d9cb105c-c864-444a-8fda-a8aad980050a" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a391d1ae-eba9-4bd8-9a71-6e212c25fbeb" />
+        <field name="Name" type="NameTableFieldDefinition" value="d9cb105c-c864-444a-8fda-a8aad980050a_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Helmet_Leather_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d9cb105c-c864-444a-8fda-a8aad980050a" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f6d94ffd-2744-41f3-8c77-5b6e493e3bca" />
+        <field name="Name" type="NameTableFieldDefinition" value="d9cb105c-c864-444a-8fda-a8aad980050a_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Boots_Leather_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fc182731-6342-4d6c-aafa-e6c2b0d86a17" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Sorcerer" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Robe_Sorcerer_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc182731-6342-4d6c-aafa-e6c2b0d86a17" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8a3e9a7f-eb8b-491e-8463-4b101cc0015b" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Sorcerer_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Gloves_Cloth_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc182731-6342-4d6c-aafa-e6c2b0d86a17" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c897e4df-31f0-4e0a-bb25-32758d5b9b6f" />
+        <field name="Name" type="NameTableFieldDefinition" value="fc182731-6342-4d6c-aafa-e6c2b0d86a17_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Hat_Cloth_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc182731-6342-4d6c-aafa-e6c2b0d86a17" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c3689d89-09ec-4c14-9733-895f1bb2ee5d" />
+        <field name="Name" type="NameTableFieldDefinition" value="fc182731-6342-4d6c-aafa-e6c2b0d86a17_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Shoes_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7455df57-7bc2-492c-92df-1028148da312" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Warlock" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Padded_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7455df57-7bc2-492c-92df-1028148da312" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0de4c946-ae7d-4744-a976-65689db7aaae" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Warlock_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Gloves_Leather_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7455df57-7bc2-492c-92df-1028148da312" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8a274ee4-6be6-453f-a6a5-2b3571d578f8" />
+        <field name="Name" type="NameTableFieldDefinition" value="7455df57-7bc2-492c-92df-1028148da312_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Helmet_Leather_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7455df57-7bc2-492c-92df-1028148da312" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4735c6bd-f69e-4fbf-88fc-7572c0c5a1bf" />
+        <field name="Name" type="NameTableFieldDefinition" value="7455df57-7bc2-492c-92df-1028148da312_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Shoes_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9d054689-f202-49c0-904f-a1045d17c109" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Wizard" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Robe_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="9d054689-f202-49c0-904f-a1045d17c109" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a7ee50c3-3376-4257-8ace-a36ef1864789" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHARRAN_Wizard_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Gloves_Cloth_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="9d054689-f202-49c0-904f-a1045d17c109" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ca06407c-fab5-4c50-980a-ff80855737ed" />
+        <field name="Name" type="NameTableFieldDefinition" value="9d054689-f202-49c0-904f-a1045d17c109_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Hat_Cloth_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="9d054689-f202-49c0-904f-a1045d17c109" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6dd3b973-8d59-4396-94e7-a76c560c8b92" />
+        <field name="Name" type="NameTableFieldDefinition" value="9d054689-f202-49c0-904f-a1045d17c109_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Shoes_Sharran" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3b034ae3-d260-4a73-b10f-9e954489d19d">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6d2bf9da-e7a3-4b19-92d8-cddc0992d3f1" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="0eb594cb-8820-4be6-a58d-8be7a1a98fba" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="397dec2f-c0fb-c092-e1cb-ffd481deded0" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h99d90059gb7cag6d79g95bfga390282e3a1b" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="HUM_F_NKD_Hair_Nightsong" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ad9f5f87-9d05-4303-93ee-514da6fb5c88" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="0eb594cb-8820-4be6-a58d-8be7a1a98fba" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="6010dbe3-50ec-0557-904c-b2b19ad53e40" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4b180cdegaa92gff4bgd8a6g4b6aecf156aa" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="HUM_F_NKD_Head_Nightsong" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

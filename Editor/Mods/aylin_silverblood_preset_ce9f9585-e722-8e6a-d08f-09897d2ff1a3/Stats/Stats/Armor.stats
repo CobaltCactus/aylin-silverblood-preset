@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="239de60a-29b5-4010-bf7d-f6169d4ddd8a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="61f30094-5def-4ed7-8e31-b5bf2a4b02c8" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Barbarian_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="090faab4-f448-45d3-a9cb-9e091239992d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="5ead3462-79dd-4c7b-b51e-986ba92cf234" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7112938f-ed8b-49a6-8e21-d74736f6b8d9" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Shoes_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c23f965d-cea3-4d5a-9224-726d59734e43" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d92e7d1e-3f0b-4be2-b730-e22724066c5b" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="23219e2b-9adf-4d62-8aaf-d6b927cd1e91" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Bard_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2c63465a-c3ac-4cbd-9192-3a7b007383a7" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="ca6062da-9cec-4d37-8b26-2b3c3d73ba57" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="052eb00c-4dbe-4edf-bef1-0aac03bd6735" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Boots_Leather_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c6d249ce-32d3-4c33-941c-298d686bb1f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="69aef6e3-11a8-4786-9949-3c74bd696dd4" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9f626231-8871-4819-afa9-8bd6a79817b0" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Boots_Monk_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8892c83b-d99d-460a-9874-b70d378b2a06" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="15888a9e-0037-4ae2-b36a-3206d1e5ed77" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="433fddeb-0133-4202-b735-5cdd5fbf11b2" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_ChainShirt_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="147ccec5-9aa7-4154-9e13-f3a55353273a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6b61f9a4-47d8-40e5-9397-be4e45442597" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5f133de5-2ba7-4261-a1dc-e009fe1a28c2" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Gloves_Cloth_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="bf036aaa-8c14-4ade-bec1-ff76d89e1d88" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="192a26f8-e78e-4362-8acb-2b27210a11a9" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e961d8d9-85df-4929-a962-05b449cf96e3" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Gloves_Leather_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="bf036aaa-8c14-4ade-bec1-ff76d89e1d88" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="30eb8e95-c84d-4409-bb54-8221b426ec5f" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c2c770f4-5988-4943-b83e-c05472c7960b" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Gloves_Metal_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="9595f6a0-f229-4869-ad3c-1ec7763733da" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="9830c907-e66c-4876-8a46-80a1caa63b5f" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="181d42a9-4260-4eda-99f9-8bdec1d55961" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Hat_Cloth_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="eeb0b62e-6822-4203-bcc5-29dcbeb748c6" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="42f26d13-0bdd-40b3-8193-50f0fc13dd63" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a9aec720-e156-41b1-8cfa-906eb9719b48" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Helmet_Leather_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="98e55f77-08dd-42b0-b078-0e15f40a1025" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="de1e622c-3c87-436c-a774-9bfbc75a76d8" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c9f7d18d-bd02-45b4-b5a0-30bff7ac4c2f" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Helmet_Metal_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d9537167-87b5-44df-8c0b-22f82d8f2040" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="375ad6dd-fe75-4e56-90c4-d175738c90d3" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="49829392-6624-40e9-896a-58e8c5311be6" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Leather_Druid_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c9789637-9678-46f0-82d2-7ae516afc0ce" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="abf22a55-3740-42da-8000-24c8a88ca560" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ac2917f9-3aa5-4bea-9fec-031584a61961" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Leather_Rogue_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7a73b958-63cf-4c79-9c0a-896e62bb5fab" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="26661c30-a3a0-42de-aa89-abe5aa1908ac" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="696ebabb-1f35-447d-a62b-181f603d3efa" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Leather_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="3960279f-5810-45c8-8925-fd232120c664" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="634a5c81-b6da-4222-a95b-a1eb084aac13" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9b058634-76f1-4da3-9953-c68d96b47933" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Monk_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f017616e-cb58-44b2-86d9-32b0b0980edb" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="1c207e6e-24b2-439b-b366-def0dd211dd1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8e7eda43-f8cd-44ff-bfe9-337d3351fbe0" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Padded_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="0e41878e-c5c1-4723-a633-1056a2e3a541" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="9625a21d-ee38-431a-a301-87c0d3155729" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c1ec0b28-fd9d-49bf-94b6-d3d00c633683" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Robe_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77026e76-47c8-4ca7-b066-eff688e825d1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="86768579-510a-409a-a981-be4e0e905b86" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6e01017d-e33b-49f8-a448-121e6ed487b9" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Robe_Sorcerer_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="910c6a87-7837-4c9e-8345-f601e4581c13" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f40bf000-1e9d-423b-ad1f-2a318447c049" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="334a5a1f-846e-474c-8aa4-2c923e3b5618" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_ScaleMail_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b66eee7b-5a31-4eb5-8494-606a3119137e" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="3aae334e-b180-4f58-9cae-51568ee06742" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="179c6e48-e416-45cf-b6fd-e960ac822651" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_ScaleMail2_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b66eee7b-5a31-4eb5-8494-606a3119137e" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="609f4d16-a929-426d-9922-2691acc43484" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="21fda726-3373-4714-a000-b5ce81c35a13" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Shoes_Barbarian_Sharran" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="363265b3-4c07-4d22-b747-c9d89bc04a53" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="babf3c71-9ae5-4085-95dc-77684bdc744c" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.01" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
